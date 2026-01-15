@@ -1,11 +1,10 @@
-**MultiAgent Business Insights**
-
+**📊 MultiAgent Business Insights**
 
 An AI-powered multi-agent system built with LangChain and Groq that analyzes company sales data, summarizes insights, suggests growth strategies, handles Q&A, and generates automated email reports for management.
 
-**Features**
+**🚀 Features**
 
-**Multi-Agent Workflow**
+**🤖 Multi-Agent Workflow**
 
 Data Analyst Agent → Performs data analysis, calculates revenue, expenses, profit, and trends.
 
@@ -17,13 +16,13 @@ Customer Support Agent → Handles user queries (e.g., “Which product had the 
 
 Email Reporter Agent → Creates professional monthly performance emails for company executives.
 
-Data Analysis with CSV (company_sales.csv)
+**📈 Data Analysis with CSV (company_sales.csv)
 
-Automated Email Report Generation
+📬 Automated Email Report Generation
 
-Powered by LangChain + Gemini API**
+🧠 Powered by LangChain + Gemini API**
 
-**Tech Stack**
+**🛠️ Tech Stack**
 
 Python 3.10+
 
