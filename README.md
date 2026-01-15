@@ -1,5 +1,6 @@
-**MultiAgent Business Insights
-**
+**MultiAgent Business Insights**
+
+
 An AI-powered multi-agent system built with LangChain and Groq that analyzes company sales data, summarizes insights, suggests growth strategies, handles Q&A, and generates automated email reports for management.
 
 **Features**
